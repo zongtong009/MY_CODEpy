@@ -3,25 +3,26 @@
 # @File    : T.py
 # @Author  : huifer
 # @Time    : 2018/10/16 21:12
-from tkinter import *
+import tkinter as tk
 import time
 
-class Miaobiao(Frame):
+
+class Timer(tk.Frame):
     msec = 50
 
     def __init__(self, parent=None, **kw):
-        Frame.__init__(self, parent, kw)
+        tk.Frame.__init__(self, parent, kw)
         self.start = 0.0
         self.eTime = 0.0
         self.isRunning = False
-        self.timestr = StringVar()
+        self.timestr = tk.StringVar()
         self.makeWidgets()
 
     def makeWidgets(self):
         '''制作时间标签'''
-        l = Label(self, textvariable=self.timestr)
+        l = tk.Label(self, textvariable=self.timestr)
         self._setTime(self.eTime)
-        l.pack(fill=X, expand=NO, pady=2, padx=2)
+        l.pack(fill=tk.X, expand=tk.NO, pady=2, padx=2)
 
     def _update(self):
         '''用逝去的时间更新标签'''
@@ -50,22 +51,20 @@ class Miaobiao(Frame):
             self.isRunning = False
             print(self.eTime)
 
-
     def Reset(self):
         self.start = time.time()
         self.eTime = 0.0
         self._setTime(self.eTime)
 
 
-
-
-
 if __name__ == '__main__':
-    winForm = Tk()
-    sw = Miaobiao()
-    sw.pack(side=TOP)
-    Button(winForm, text='开始', command=sw.Start).pack(side=LEFT)
-    Button(winForm, text='暂停', command=sw.Stop).pack(side=LEFT)
-    Button(winForm, text='重置', command=sw.Reset).pack(side=LEFT)
-    Button(winForm, text='退出', command=sw.quit).pack(side=LEFT)
+    winForm = tk.Tk()
+
+    timer = Timer()
+    timer.pack(side=tk.TOP)
+    tk.Button(winForm, text='开始', command=timer.Start).pack(side=tk.LEFT)
+    tk.Button(winForm, text='暂停', command=timer.Stop).pack(side=tk.LEFT)
+    tk.Button(winForm, text='重置', command=timer.Reset).pack(side=tk.LEFT)
+    tk.Button(winForm, text='退出', command=timer.quit).pack(side=tk.LEFT)
+    
     winForm.mainloop()
