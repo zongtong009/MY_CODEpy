@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @File    : T.py
-# @Author  : huifer
-# @Time    : 2018/10/16 21:12
 import tkinter as tk
 import time
 
@@ -66,5 +61,5 @@ if __name__ == '__main__':
     tk.Button(winForm, text='暂停', command=timer.Stop).pack(side=tk.LEFT)
     tk.Button(winForm, text='重置', command=timer.Reset).pack(side=tk.LEFT)
     tk.Button(winForm, text='退出', command=timer.quit).pack(side=tk.LEFT)
-    
+
     winForm.mainloop()
