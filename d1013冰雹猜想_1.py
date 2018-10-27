@@ -34,4 +34,4 @@ for i in range(7,8,2):
         else:
             f_i = bb(f_i)
 '''
-    
+

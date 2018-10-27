@@ -5,4 +5,4 @@ def func(a, b):
 a=10
 b=100
 c,b1=func(a,b)
-print(a,b,c,b1)
+print(a,b,c,b1,dddd)
