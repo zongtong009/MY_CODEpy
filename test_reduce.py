@@ -11,8 +11,11 @@ reduce(sum,[1, 3, 5, 7, 9])
 '''
 
 from functools import reduce
+
+
 def fn(x, y):
     return x * 10 + y
 
-re=reduce(fn, [1, 3, 5, 7, 9])
+
+re = reduce(fn, [1, 3, 5, 7, 9])
 print(re)

@@ -14,8 +14,3 @@ im.thumbnail((w//2, h//2))
 print('Resize image to: %sx%s' % (w//2, h//2))
 # 把缩放后的图像用jpeg格式保存:
 im.save('thumfgrfgthhtgfbnail.jpg', 'jpeg')
-
-
-
-
-

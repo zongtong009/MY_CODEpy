@@ -1,11 +1,11 @@
 import random
-strs = ''
+str_s = ''
 for i in range(4):
     num = random.randint(0, 3)
-    if num == i:
+    if abs(num-i) > 1:
         str_num = str(random.randint(0, 9))
     else:
         str_num = chr(random.randint(65, 90))
-    strs += str_num
+    str_s += str_num
 
-print(strs)
+print(str_s)

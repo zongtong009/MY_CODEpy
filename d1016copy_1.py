@@ -1,15 +1,13 @@
 import copy
 
 
-deepcopy=copy.deepcopy
+deepcopy = copy.deepcopy
+a = [1, 2, 3, 4, [5, 6]]
+b = deepcopy(a)
 
-a=[1,2,3,4,[5,6]]
-b=deepcopy(a)
+print(id(a), id(b))
 
-print(id (a),id(b))
+a[4][1] = 66
 
-a[4][1]=66
-
-print(id (a),id(b))
-print(a, b)
-
+print(id(a), id(b))
+print(a, b, sep='\n')

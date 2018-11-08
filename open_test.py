@@ -8,27 +8,21 @@ print(s,str,len(str))
 with open('test.txt', 'w', encoding='utf-8') as f:
     f.write('test')
 '''
-fs=open("H:\\tr.txt","r", encoding='utf-8')
-for line in fs.readlines():                          #依次读取每行  
-    line = line.strip()                             #去掉每行头尾空白  
-    print ("读取的数据为: %s" % (line))
+fl = open("H:\\tr.txt", "r", encoding='utf-8')
+for line in fl.readlines():  # 依次读取每行
+    line = line.strip()  # 去掉每行头尾空白
+    print("读取的数据为: %s" % (line))
 print()
-fs.close()
-#读
+fl.close()
+# 读
 with open('test.txt', 'r', encoding='utf-8') as f:
-    for line in f.readlines():                          #依次读取每行  
-        line = line.strip()                             #去掉每行头尾空白  
-        print ("读取的数据为: %s" % (line))
+    for line in f.readlines():  # 依次读取每行
+        line = line.strip()  # 去掉每行头尾空白
+        print("读取的数据为: %s" % (line))
 
 with open('test.txt', 'r', encoding='utf-8') as f:
-    for line in f.readlines():                          #依次读取每行  
-        #line = line.strip()                             #去掉每行头尾空白  
-        print ("读取的数据为: %s" % (line))
+    for line in f.readlines():  # 依次读取每行
+        # line = line.strip()                             #去掉每行头尾空白
+        print("读取的数据为: %s" % (line))
 
 print("//n\\n")
-
-
-
-
-
-
