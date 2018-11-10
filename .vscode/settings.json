@@ -3,5 +3,6 @@
     "cSpell.words": [
         "lacie",
         "wkhtmltopdf"
-    ]
+    ],
+    "python.linting.pylintEnabled": true
 }
