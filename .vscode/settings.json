@@ -1,6 +1,7 @@
 {
     "python.pythonPath": "G:\\Anaconda3\\python.exe",
     "cSpell.words": [
+        "functools",
         "lacie",
         "wkhtmltopdf"
     ],
