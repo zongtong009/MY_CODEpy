@@ -34,6 +34,14 @@ print(id_left, id_right)
 取得他们的id,再进行计算
 """
 #   (   )   )   )   (   (
+#           )   )   (   (
 # (   (               )   )
 # 0   1   2   3   4   5   6
 # 1   2   5   5   3   4   1
+"""
+right_m=list(cost[0:id_right[-1]+1])
+left_m=list(cost[id_left[0]+1:])
+
+
+
+ """
