@@ -39,6 +39,7 @@ def fun(s):
 
 
 def sum_aeoui(str_string):
+
     # 计算单个字符串中元音字母数
     s = str_string.lower()
     sum = 0
