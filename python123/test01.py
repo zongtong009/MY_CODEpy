@@ -45,4 +45,5 @@ def fun(string):
 
 s_temp = [4, 5, 12, 6, 78, 24]
 
-fun(s_temp)
+res = fun(s_temp)
+print(res)
