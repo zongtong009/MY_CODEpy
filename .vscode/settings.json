@@ -1,9 +1,5 @@
 {
-    "python.pythonPath": "G:\\Anaconda3\\python.exe",
-    "cSpell.words": [
-        "functools",
-        "lacie",
-        "wkhtmltopdf"
-    ],
-    "python.linting.pylintEnabled": true
-}
+    "python.pythonPath": "C:\\Users\\Administrator\\Anaconda3\\python.exe",
+    "python.autoComplete.addBrackets": true,
+    "python.linting.pylintEnabled": true,
+}                      //C:\\Users\\Administrator\\Anaconda3\\python.exe

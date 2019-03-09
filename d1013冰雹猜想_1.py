@@ -2,19 +2,20 @@ from sympy import Symbol as Symbol
 x = Symbol('x')
 y = Symbol('y')
 
+
 def bb(x):
     y = (3*x+1)/2
     if isinstance(y, float):
         y = int(y)
     return y
 
-f=bb(x)
 
-f7=bb(7)
-print(f,'\n',f7,"  不能被2整除才行，例如7变11是奇数，肯定是增大的，但是如果是偶数一定比7小，就是减小了，没有了可能性",sep='')
+f = bb(x)
+f7 = bb(7)
+print(f, '\n', f7, "  不能被2整除才行，例如7变11是奇数，肯定是增大的，但是如果是偶数一定比7小，就是减小了，没有了可能性", sep='')
 
-f=bb(f)
-print(f,"不能被4整除才行")
+f = bb(f)
+print(f, "不能被4整除才行")
 '''
 for i in range(10):
     d=2**(i+1)
@@ -34,4 +35,3 @@ for i in range(7,8,2):
         else:
             f_i = bb(f_i)
 '''
-

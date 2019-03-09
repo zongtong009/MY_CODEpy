@@ -1,6 +1,4 @@
 import copy
-
-
 deepcopy = copy.deepcopy
 a = [1, 2, 3, 4, [5, 6]]
 b = deepcopy(a)

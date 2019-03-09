@@ -9,37 +9,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python123$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1551541858387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python123$this.coverage" NAME="this Coverage Results" MODIFIED="1545107338627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Anaconda3/Lib" />
     <SUITE FILE_PATH="coverage/python123$py_for_python.coverage" NAME="py for python Coverage Results" MODIFIED="1551486587028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-crawler" />
-    <SUITE FILE_PATH="coverage/python123$main.coverage" NAME="main Coverage Results" MODIFIED="1546450005604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python123$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1551426042442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plane" />
+    <SUITE FILE_PATH="coverage/python123$curses.coverage" NAME="curses贪吃蛇 Coverage Results" MODIFIED="1552042889960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python123$design_main.coverage" NAME="design_main Coverage Results" MODIFIED="1551486577366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-crawler" />
     <SUITE FILE_PATH="coverage/python123$design.coverage" NAME="design Coverage Results" MODIFIED="1551486560347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-crawler" />
+    <SUITE FILE_PATH="coverage/python123$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1551906682343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python123$this.coverage" NAME="this Coverage Results" MODIFIED="1545107338627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Anaconda3/Lib" />
+    <SUITE FILE_PATH="coverage/python123$main.coverage" NAME="main Coverage Results" MODIFIED="1546450005604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python123$.coverage" NAME="两种递归斐波那契数列 Coverage Results" MODIFIED="1552033775245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python123$pyside2.coverage" NAME="pyside2 Coverage Results" MODIFIED="1551486597538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-crawler" />
-    <SUITE FILE_PATH="coverage/python123$py_for_python__1_.coverage" NAME="py for python (1) Coverage Results" MODIFIED="1551490872764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python123$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1546347120868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python123$py_for_python__1_.coverage" NAME="py for python (1) Coverage Results" MODIFIED="1551906671102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python123$pyside2_1.coverage" NAME="pyside2_1 Coverage Results" MODIFIED="1551446822987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-crawler" />
+    <SUITE FILE_PATH="coverage/python123$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1551906971893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py for python.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test01.py">
+        <entry file="file://$PROJECT_DIR$/curses贪吃蛇.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="21">
+              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -73,6 +63,8 @@
         <option value="$PROJECT_DIR$/pyside2.txt" />
         <option value="$PROJECT_DIR$/py for python.py" />
         <option value="$PROJECT_DIR$/test01.py" />
+        <option value="$PROJECT_DIR$/两种递归斐波那契数列.py" />
+        <option value="$PROJECT_DIR$/curses贪吃蛇.py" />
       </list>
     </option>
   </component>
@@ -94,6 +86,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,7 +103,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,7 +110,7 @@
     <property name="last_opened_file_path" value="D:/Anaconda3/Lib/site-packages/PySide2/designer.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -137,8 +129,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test01">
-    <configuration name="design_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.curses贪吃蛇">
+    <configuration name="两种递归斐波那契数列" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python123" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,12 +138,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web-crawler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\git\MY_CODEpy\python123\design_main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/两种递归斐波那契数列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="curses贪吃蛇" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python123" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curses贪吃蛇.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,50 +196,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py for python" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python123" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web-crawler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\git\MY_CODEpy\python123\py for python.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pyside2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python123" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web-crawler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\git\MY_CODEpy\python123\pyside2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python123" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,13 +218,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python123" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.curses贪吃蛇" />
+        <item itemvalue="Python.两种递归斐波那契数列" />
+        <item itemvalue="Python.test02" />
         <item itemvalue="Python.test01" />
         <item itemvalue="Python.py for python (1)" />
-        <item itemvalue="Python.pyside2" />
-        <item itemvalue="Python.py for python" />
-        <item itemvalue="Python.design_main" />
       </list>
     </recent_temporary>
   </component>
@@ -286,17 +278,25 @@
       <workItem from="1551486528755" duration="212000" />
       <workItem from="1551490623645" duration="270000" />
       <workItem from="1551537199974" duration="2412000" />
+      <workItem from="1551901336414" duration="184000" />
+      <workItem from="1551906357199" duration="1853000" />
+      <workItem from="1552032136908" duration="2584000" />
+      <workItem from="1552034939372" duration="473000" />
+      <workItem from="1552040958329" duration="111000" />
+      <workItem from="1552041716043" duration="111000" />
+      <workItem from="1552041881143" duration="572000" />
+      <workItem from="1552042746512" duration="186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20384000" />
+    <option name="totallyTimeSpent" value="26458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2066474" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23916185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="0" sideWeight="0.49927744" weight="0.52427185" />
@@ -309,10 +309,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007225" side_tool="true" weight="0.62274617" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014451" side_tool="true" weight="0.26074895" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32871014" />
-      <window_info anchor="bottom" id="Run" order="13" sideWeight="0.49927744" weight="0.26074895" />
+      <window_info anchor="bottom" id="Run" order="13" sideWeight="0.49855492" weight="0.39528432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -324,18 +324,8 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Anaconda3/Lib/site-packages/numpy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-882" />
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda3/Lib/this.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/numpy/__init__.py" />
+    <entry file="file://D:/Anaconda3/Lib/this.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -343,20 +333,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Anaconda3/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="267" selection-start-line="267" selection-end-line="267" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda3/Lib/copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="137" selection-start-line="137" selection-end-line="137" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Anaconda3/Lib/codecs.py" />
+    <entry file="file://D:/Anaconda3/Lib/copy.py" />
     <entry file="file://$PROJECT_DIR$/../../../毕业设计/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -376,9 +354,7 @@
     <entry file="file://$PROJECT_DIR$/plane/bg.jpg" />
     <entry file="file://$PROJECT_DIR$/plane/enemy.png" />
     <entry file="file://$PROJECT_DIR$/plane/f.js" />
-    <entry file="file://D:/Anaconda3/Lib/site-packages/PySide2/QtWidgets.pyi">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/PySide2/QtWidgets.pyi" />
     <entry file="file://$PROJECT_DIR$/web-crawler/002douban.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -416,13 +392,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py" />
-    <entry file="file://$PROJECT_DIR$/test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-crawler/001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -431,13 +400,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day100.pyx" />
-    <entry file="file://D:/Anaconda3/Lib/site-packages/PySide2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/PySide2/__init__.py" />
     <entry file="file://$PROJECT_DIR$/pyside2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -455,27 +418,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/numpy/core/__init__.py" />
     <entry file="file://$PROJECT_DIR$/py for python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Anaconda3/Lib/site-packages/numpy/core/__init__.py">
+    <entry file="file://$PROJECT_DIR$/两种递归斐波那契数列.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="243">
+          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test01.py">
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/curses/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="92">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="11" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#224#245#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curses贪吃蛇.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
