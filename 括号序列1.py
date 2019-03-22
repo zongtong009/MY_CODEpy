@@ -44,3 +44,4 @@ lmin_a = get_min(left_cost)
 lmin_b = get_min(left_cost)
 sum = rmin_a + rmin_b + lmin_a + lmin_b
 print('最小代价为: ', sum)
+print()
