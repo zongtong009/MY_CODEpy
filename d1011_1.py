@@ -1,21 +1,22 @@
 class Solution:
     def toRm(self, num):
-        ones = ["", "I", "II", "III",
-                     "IV", "V", "VI", "VII", "VIII", "IX"]
-        tens = ["", "X", "XX", "XXX",
-                     "XL", "L", "LX", "LXX", "LXXX", "XC"]
-        hundreds = ["", "C", "CC", "CCC",
-                         "CD", "D", "DC", "DCC", "DCCC", "CM"]
+        ones = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"]
+        tens = ["", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"]
+        hundreds = ["", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"]
         thounsands = ["", "M", "MM", "MMM"]
 
-        sb = ''
-        sb = sb+thounsands[num/1000] \
-            + hundreds[(num % 1000)/100] \
-            + tens[(num % 100)/10] \
+        sb = ""
+        sb = (
+            sb
+            + thounsands[num / 1000]
+            + hundreds[(num % 1000) / 100]
+            + tens[(num % 100) / 10]
             + ones[num % 10]
+        )
         return sb
 
-'''
+
+"""
 class Solution:
     def intToRoman(self, num):
 
@@ -28,9 +29,9 @@ class Solution:
                 num-=num_list[i]
                 res+=str_list[i]
         return res
-            
-'''
-'''
+
+"""
+"""
 class Solution:
     def intToRoman(self, num):
 
@@ -93,4 +94,5 @@ class Solution:
                     g -= 1
 
         return ret
-        '''
+        """
+

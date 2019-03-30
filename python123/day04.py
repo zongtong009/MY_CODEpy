@@ -17,5 +17,5 @@ def count_of_1bits(value):
     return n
 
 
-res=count_of_1bits(0b11001100)
+res = count_of_1bits(0b11001100)
 print(res)
