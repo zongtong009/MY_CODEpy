@@ -17,7 +17,7 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "console": "none"
+            "console": "internalConsole"
         },
         {
             "name": "Current File:外部终端",

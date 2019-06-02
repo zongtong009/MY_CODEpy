@@ -1,6 +1,9 @@
 {
-    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Anaconda3_64\\python.exe",
+    "python.pythonPath": "D:\\Anaconda\\python.exe",
     "python.autoComplete.addBrackets": true,
-    "python.linting.pylintEnabled": true,
-    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": false,
+    "python.formatting.provider": "autopep8",
+    "python.linting.flake8Enabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true,
 }                      //C:\\Users\\Administrator\\Anaconda3\\python.exe
