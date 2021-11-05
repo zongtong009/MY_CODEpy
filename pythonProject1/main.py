@@ -12,7 +12,7 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi([sorted(list(random.sample(range(0, 9), 5))) for i in range(3)])
+    print([list(random.sample(range(0, 9), 5)) for i in range(3)])
     print([list(random.sample(range(1, 34), 6)) + random.sample(range(1, 17), 1) for i in range(3)])
     print([list(random.sample(range(1, 36), 5)) + sorted(random.sample(range(1, 13), 2)) for i in range(3)])
     # See PyCharm help at https://www.jetbrains.com/help/pycharm/
