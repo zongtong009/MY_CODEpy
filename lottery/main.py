@@ -1,7 +1,7 @@
 import random
 
 if __name__ == '__main__':
-    a = 1
+    a = 11
     # for i in range(5):
     #     print(random.sample(range(0, 9), 5))
 
