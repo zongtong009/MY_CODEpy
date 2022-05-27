@@ -29,4 +29,4 @@ if __name__ == '__main__':
     # print(dec('BV17x411w7KC'))
     # print(dec('BV1Q541167Qg'))
     # print(dec('BV1mK4y1C7Bz'))
-    print(enc('av298185167'))
+    print(enc('av633151695'))
